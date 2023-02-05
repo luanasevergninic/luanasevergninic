@@ -4,6 +4,8 @@
 
 ![luanasevergninic GitHub stats](https://github-readme-stats.vercel.app/api?username=luanasevergninic&show_icons=true&theme=dracula)
 
+[![luanasevergninic](https://github-readme-stats.vercel.app/api/top-langs/?username=luanasevergninic&layout=compact)](https://github.com/luanasevergninic/github-readme-stats)
+
 ## Tecnologias que uso no meu dia a dia. 
 
 <div style="display: inline_block">
